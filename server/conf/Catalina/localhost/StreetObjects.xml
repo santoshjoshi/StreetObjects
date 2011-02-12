@@ -1,4 +1,4 @@
-<Context path="/StreetObjects" docBase="E:\IDEs\Android\eclipse\workspace\StreetObjects\WebContent">
+<Context path="/StreetObjects" docBase="WebContent">
 	<WatchedResource>WEB-INF/web.xml</WatchedResource>
 	<Logger className="org.apache.juli.logging.FileLogger" prefix="street_objects." suffix=".txt" timestamp="true"/>
      
